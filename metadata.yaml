@@ -10,7 +10,7 @@ desc: |
   - 三级重试 + 备用模型，判断失败自动降级
   - 判断日志 JSONL，可按分数分布调阈值
   - 全部配置项可在 WebUI 面板调整，模型用下拉框选择
-version: 2.0.0
+version: 2.0.1
 author: qqagent-suite
 repo: https://github.com/renji174200/astrbot_plugin_smart_reply
 astrbot_version: ">=4.25"
